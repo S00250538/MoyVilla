@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: blue;
+    color: rgba(12, 12, 12, 0.986);
+}
+header {
+    background-color: rgba(10, 10, 10, 0.801);
+    padding: 20px;
+    text-align: left;
+}
+h1 {
+    margin: 0;
+    text-align: left;
+    color: red;
+    
+}
+nav {
+    background-color: #838181;
+    padding: 10px;
+    text-align: center;
+}
+nav a {
+    text-decoration: none;
+    color: #fff;
+    padding: 5px 10px;
+}
+nav a:hover {
+    background-color: gray;
+}
+main {
+    padding: 20px;
+    color: #fff;
+    text-decoration: color red;
+    
+}
+footer {
+    background-color: black;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+head {
+    padding: 20px;
+    color: #fff;
+}
+.emailcolour{color: white;}
