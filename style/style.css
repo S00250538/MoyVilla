@@ -31,6 +31,8 @@ nav a:hover {
 }
 main {
     padding: 20px;
+    width: 64%;
+    float: left;
     color: #fff;
     text-decoration: color red;
     
@@ -49,3 +51,12 @@ head {
     color: #fff;
 }
 .emailcolour{color: white;}
+aside {
+    background-color: #f0f0f0;
+    padding: 0;
+    margin: 0;
+    width: 30%;
+    float: right;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
